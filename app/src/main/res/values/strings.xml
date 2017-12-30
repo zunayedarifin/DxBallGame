@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DxBallGame</string>
+    <string name="exit">Exit</string>
+    <string name="home">HOME</string>
+</resources>
